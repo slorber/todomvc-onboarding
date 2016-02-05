@@ -1,4 +1,4 @@
-# TodoMVC-Onboarding
+# TodoMVC Onboarding
 Showcase different ways to add a complex onboarding to a TodoMVC app
 
 Adding an onboarding (not a simple carousel) to an existing application is a transversal concern that can be quite hard to do. 
